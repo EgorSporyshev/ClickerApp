@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 3d45a08e4b628c0479deba498a42cd6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panel: {instanceID: 0}
+  - Progress: {instanceID: 0}
+  - Shop: {instanceID: 0}
+  - GameOver: {instanceID: 0}
+  - moneyPad: {instanceID: 0}
+  - myFX: {instanceID: 0}
+  - clickFX: {fileID: 8300000, guid: fc3785ccdc41f584085165f87fae1669, type: 3}
+  - ach1: {instanceID: 0}
+  - ach2: {instanceID: 0}
+  - ach3: {instanceID: 0}
+  - ach_mark: {instanceID: 0}
+  - ach_new: {instanceID: 0}
+  - Cheat: {instanceID: 0}
+  - CheatReset: {instanceID: 0}
+  - sprite_0: {instanceID: 0}
+  - sprite_1: {instanceID: 0}
+  - sprite_2: {instanceID: 0}
+  - sprite_3: {instanceID: 0}
+  - sprite_4: {instanceID: 0}
+  - moneyText: {instanceID: 0}
+  - ShopMoneyText: {instanceID: 0}
+  - UpText1: {instanceID: 0}
+  - UpText2: {instanceID: 0}
+  - UpText3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

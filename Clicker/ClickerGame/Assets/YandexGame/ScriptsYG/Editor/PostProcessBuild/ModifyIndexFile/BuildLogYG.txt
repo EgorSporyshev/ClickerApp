@@ -1,0 +1,2 @@
+Build path: C:/Users/dreny/Desktop/ma-ege-2021/Labs/3 курс/__2/1/ClickerGame/build
+Build number: 142

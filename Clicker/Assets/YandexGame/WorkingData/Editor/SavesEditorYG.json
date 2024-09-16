@@ -1,0 +1,21 @@
+{
+    "idSave": 617,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        false,
+        false
+    ],
+    "money": 12,
+    "TimesClicked": 12,
+    "click_value": 1,
+    "upgrade_1": false,
+    "upgrade_2": false,
+    "upgrade_3": false,
+    "achievement_1": false,
+    "achievement_2": false,
+    "achievement_3": false
+}
